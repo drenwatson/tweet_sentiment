@@ -1,5 +1,3 @@
-require "nokogiri"
-require 'open-uri'
 require "mechanize"
 require "sentimentalizer"
 require "awesome_print"
